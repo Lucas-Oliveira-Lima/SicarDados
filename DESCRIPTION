@@ -1,7 +1,7 @@
 Package: sicar_dados
 Title: Pacote para Consulta de dados no SICAR-PA
-Author: Lucas Lima
-Maintainer: Lucas Lima
+Author: Lucas Lima <lucasscofield99@gmail.com>
+Maintainer: Lucas Lima <lucasscofield99@gmail.com>
 Version: 0.1.0
 Imports:
     httr,
