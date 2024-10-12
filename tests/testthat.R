@@ -7,6 +7,6 @@
 # * https://testthat.r-lib.org/articles/special-files.html
 
 library(testthat)
-library(CAR.PACKAGE)
+library(SicarDados)
 
-test_check("CAR.PACKAGE")
+test_check("SicarDados")
