@@ -2,14 +2,7 @@ Package: SicarDados
 Title: Pacote para Consulta de dados no SICAR-PA
 Author: Lucas Lima <lucasscofield99@gmail.com>
 Maintainer: Lucas Lima <lucasscofield99@gmail.com>
-Version: 0.1.0
-Imports:
-    httr,
-    jsonlite,
-    purrr,
-    dplyr,
-    progress,
-    rvest
+Version: 0.3.0
 Description: Este pacote permite a consulta de dados no SICAR a partir de informações com cpf ou codigo car do imóvel no SICAR-PA.
 License: GPL-3
 Encoding: UTF-8
@@ -18,3 +11,16 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
 URL: https://github.com/Lucas-Oliveira-Lima/sicar_dados
 BugReports: https://github.com/Lucas-Oliveira-Lima/sicar_dados/issues
+Imports:
+    httr,
+    jsonlite,
+    purrr,
+    dplyr,
+    progress,
+    rvest,
+    openxlsx,
+    xml2,
+    magrittr
+Suggests:
+    testthat,
+    devtools
