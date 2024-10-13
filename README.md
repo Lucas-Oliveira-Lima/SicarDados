@@ -21,7 +21,7 @@ do GitHub:
 pak::pak("Lucas-Oliveira-Lima/SicarDados")
 
 # install.packages("devtools")
-devtools::install_github("Lucas-Oliveira-Lima/sicar_dados")
+devtools::install_github("Lucas-Oliveira-Lima/SicarDados"")
 ```
 
 ## Funcionalidades
