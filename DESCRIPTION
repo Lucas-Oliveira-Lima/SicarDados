@@ -9,13 +9,8 @@ Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
-<<<<<<< HEAD
 URL: https://github.com/Lucas-Oliveira-Lima/SicarDados
 BugReports: https://github.com/Lucas-Oliveira-Lima/SicarDados/issues
-=======
-URL: https://github.com/Lucas-Oliveira-Lima/sicar_dados
-BugReports: https://github.com/Lucas-Oliveira-Lima/sicar_dados/issues
->>>>>>> 2a6f760db8fbe07a4b40e839e5cfce298c3d7a23
 Imports:
     httr,
     jsonlite,

@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-[![](images/logo_sicardados-rpackage.png)](https://github.com/Lucas-Oliveira-Lima/SicarDados)
+[<img src="images/logo_sicardados-rpackage.png" width="300" />](https://github.com/Lucas-Oliveira-Lima/SicarDados)
 
 # SicarDados
 
