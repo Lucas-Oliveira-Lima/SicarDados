@@ -8,6 +8,9 @@ sicar_download_car_shp <- function(codigo_imovel, diretorio_destino = NULL) {
   # URL base
   base_url <- "http://car.semas.pa.gov.br/site/consulta/imoveis/baixarShapeFile/"
 
+  # Construir a URL completa com o código do imóvel
+  url <- paste0(base_url, codigo_imovel)
+
   # Definir o diretório de destino padrão se não informado
   if (is.null(diretorio_destino)) {
     diretorio_destino <- file.path(getwd(), "data", "shapefile")
